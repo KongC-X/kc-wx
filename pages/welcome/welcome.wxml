@@ -1,0 +1,7 @@
+<view class="container">
+  <image class="avater" src="../../images/avatar/2.png"></image>
+  <text class="motto">hello,萌萌哒的瑞萌萌</text>
+  <view class="journey-container" bindtap="onTap">
+    <text class="journey">开启小程序之旅</text>
+  </view>
+</view>
